@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("dev提交，合并测试");
         System.out.println("master，冲突测试");
         System.out.println("dev提交，冲突测试");
+        System.out.println("dev提交，冲突测试");
     }
 }
